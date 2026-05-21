@@ -5,7 +5,7 @@
     ╚██╗ ██╔╝██╔══██║██╔══╝  ██║     ██║   ██║   ██╔══██║
      ╚████╔╝ ██║  ██║███████╗███████╗██║   ██║   ██║  ██║
       ╚═══╝  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝   ╚═╝   ╚═╝  ╚═╝
-    Forensic Scanner — V4 [discord.gg/vaelithh]
+    VAELITH Scanner — V4 [discord.gg/vaelithh]
     Run from an ELEVATED (Admin) PowerShell session.
 #>
 
@@ -44,7 +44,7 @@ while ($true) {
     Write-Host "   ╚████╔╝ ██║  ██║███████╗███████╗██║   ██║   ██║  ██║" -ForegroundColor $C_Info
     Write-Host "    ╚═══╝  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝   ╚═╝   ╚═╝  ╚═╝" -ForegroundColor $C_Info
     Write-Host "  =======================================================" -ForegroundColor $C_Dim
-    Write-Host "                discord.gg/vaelithh INTERFACE            " -ForegroundColor $C_White
+    Write-Host "                discord.gg/vaelithh             " -ForegroundColor $C_White
     Write-Host "  =======================================================" -ForegroundColor $C_Dim
     Write-Host "    [6] LAST ACTIVITY VIEWER" -ForegroundColor $C_Magenta
     Write-Host "    [5] PROCESS EXPLORER"     -ForegroundColor $C_Magenta
